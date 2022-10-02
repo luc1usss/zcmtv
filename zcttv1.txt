@@ -1,4 +1,4 @@
-﻿CCTV1,http://222.85.81.15:6060/PLTV1/40/index.m3u8
+CCTV1,http://222.85.81.15:6060/PLTV1/40/index.m3u8
 CCTV2,http://222.85.81.15:6060/PLTV1/60/index.m3u8
 CCTV3,http://222.85.81.15:6060/PLTV1/80/index.m3u8
 CCTV4,http://222.85.81.15:6060/PLTV1/100/index.m3u8
@@ -17,7 +17,6 @@ CGTN,http://222.85.81.15:6060/PLTV1/340/index.m3u8
 CCTV17,http://222.85.81.15:6060/PLTV1/360/index.m3u8
 CCTV5+,http://222.85.81.15:6060/PLTV1/380/index.m3u8
 CETV1,http://222.85.81.15:6060/PLTV1/400/index.m3u8
-
 河南卫视,http://222.85.81.15:6060/PLTV1/580/index.m3u8
 河南都市频道,http://222.85.81.15:6060/PLTV1/600/index.m3u8
 河南民生频道,http://222.85.81.15:6060/PLTV1/620/index.m3u8
@@ -35,7 +34,6 @@ CETV1,http://222.85.81.15:6060/PLTV1/400/index.m3u8
 美食汇,http://222.85.81.15:6060/PLTV1/880/index.m3u8
 棋牌汇,http://222.85.81.15:6060/PLTV1/900/index.m3u8
 调解剧场,http://222.85.81.15:6060/PLTV1/920/index.m3u8
-
 浙江卫视,http://222.85.81.15:6060/PLTV1/960/index.m3u8
 东方卫视,http://222.85.81.15:6060/PLTV1/980/index.m3u8
 江苏卫视,http://222.85.81.15:6060/PLTV1/1000/index.m3u8
@@ -71,7 +69,6 @@ KAKU少儿,http://222.85.81.15:6060/PLTV1/1580/index.m3u8
 新疆卫视,http://222.85.81.15:6060/PLTV1/1620/index.m3u8
 西藏卫视,http://222.85.81.15:6060/PLTV1/1640/index.m3u8
 优漫卡通,http://222.85.81.15:6060/PLTV1/1660/index.m3u8
-
 郑州新闻综合,http://222.85.81.15:6060/PLTV1/1680/index.m3u8
 郑州商都频道,http://222.85.81.15:6060/PLTV1/1700/index.m3u8
 郑州文体旅游,http://222.85.81.15:6060/PLTV1/1720/index.m3u8
@@ -124,5 +121,4 @@ KAKU少儿,http://222.85.81.15:6060/PLTV1/1580/index.m3u8
 鄢陵综合,http://222.85.81.15:6060/PLTV2/2700/index.m3u8
 封丘新闻综合,http://222.85.81.15:6060/PLTV2/2740/index.m3u8
 新乡县综合,http://222.85.81.15:6060/PLTV2/2760/index.m3u8
-
 河南卫视4K,http://222.85.81.15:6060/PLTV2/2780/index.m3u8
